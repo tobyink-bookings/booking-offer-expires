@@ -9,4 +9,4 @@ has expired.
 
 It assumes custom fields `offer_expires` and `status` exists.
 
-This plugin requires the [TIL Bookings](https://github.com/tobyink-bookings/booking-core).
+This plugin requires the [TIL Bookings](https://github.com/tobyink-bookings/booking-core) plugin.
