@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:       TIL Bookings Offer Expiry
+ * Plugin URI:        https://github.com/tobyink-bookings
  * Description:       Allow payment links to auto-expire.
  * Version:           1.0
  * Requires at least: 5.6
